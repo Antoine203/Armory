@@ -11,7 +11,7 @@ using Armory.Models;
 
 namespace Armory.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class UserController : ControllerBase
     {

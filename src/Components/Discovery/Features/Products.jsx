@@ -6,7 +6,7 @@ function Products(props) {
     // Used for loading the data 
     const [loading, setLoading] = useState(true);
     useEffect(() => {
-        const url = process.env.REACT_APP_API + "api/"+props.param
+        const url = process.env.REACT_APP_API +props.param
         fetch(url)
             .then((response) => response.json())
             .then((data) => {

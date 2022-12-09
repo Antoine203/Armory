@@ -12,7 +12,7 @@ function Items (props) {
     // Used for loading the data 
     const [loading, setLoading] = useState(true);
     useEffect(() => {
-        const url = process.env.REACT_APP_API + "api/"+props.type
+        const url = process.env.REACT_APP_API +props.type
         fetch(url)
             .then((response) => response.json())
             .then((data) => {
