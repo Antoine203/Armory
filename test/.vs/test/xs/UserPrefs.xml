@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{0973366C-721F-4C4C-9ACA-72768A6D69A9}|Default">
+  <MonoDevelop.Ide.ItemProperties.test PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="test/ClientApp/package-lock.json">
+    <Files>
+      <File FileName="test/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="test/ClientApp/package-lock.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test" expanded="True">
+            <Node name="test" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True" />
+                <Node name="package.json" expanded="True">
+                  <Node name="package-lock.json" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

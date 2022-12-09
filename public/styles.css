@@ -1,0 +1,69 @@
+/* 
+    Colors for Project
+        Dark Grey : #393939
+        Deep Orange: #FF5A09
+        Light Orange: #ec7f37
+        Orange Yellow: #be4f0c
+
+*/
+
+.product-pitch {
+    background-color: var(--overlay);
+    color: #fff;
+    height: 800px;
+    width: 100%;
+
+}
+.product-pitch{
+    content: '';
+    background: url('./Discover_Images/Armored_Vehicle.jpeg') no-repeat center center/cover;
+    /* background-repeat: no-repeat;
+    background-position: center;
+    background-size: center/cover; */
+ 
+}
+
+/* Discovery Products Section */
+.products {
+    /* background-color: ##393939; */
+}
+.products-scroller {
+    --spacer: 3rem;
+    display: grid;
+    gap: var(--spacer);
+    grid-auto-flow: column;
+    grid-auto-columns: 18%;
+
+    padding: 0 var(--spacer) var(--spacer);
+    overflow-x: auto;
+    overscroll-behavior-inline: contain;
+}
+
+.products-scroller-elements {
+    display: grid;
+    grid-template-rows: min-content;
+    gap: var(--spacer);
+    padding: var(--size-3);
+    background: var(--surface-2);
+    border-radius: var(--radius-2);
+}
+
+.products-scroller-items > img {
+    inline-size: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+}
+
+/* Items Section */
+.items-container {
+    height: 1000px;
+    display: flex;
+    position: relative;
+}
+/* Item Filter Section */
+.filter-container {
+    height: 100%;
+    width: 300px;
+    background-color: #393939;
+    /* position:  fixed; */
+}

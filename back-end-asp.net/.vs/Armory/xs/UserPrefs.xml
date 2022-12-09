@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{068E38CC-08E9-493A-BB83-F202793F2FB5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/BladesController.cs">
+    <Files>
+      <File FileName="Controllers/ItemController.cs" Line="18" Column="5" />
+      <File FileName="Controllers/UserController.cs" />
+      <File FileName="Controllers/ClothesController.cs" />
+      <File FileName="WeatherForecast.cs" />
+      <File FileName="Startup.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="appsettings.Development.json" />
+      <File FileName="appsettings.json" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="Models/CardInformation.cs" />
+      <File FileName="ConnectionString.cs" />
+      <File FileName="Controllers/BladesController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Armory" expanded="True">
+            <Node name="Armory" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="BladesController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Armory PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
